@@ -3,9 +3,11 @@ A funny contact spamming IOS shortcut with extra features
 
 # Installation
 Get the latest version of LightSpam here. At the moment, some huge bugs are being fixed. Expect a big update later
+
 https://routinehub.co/shortcut/19643/
 
 Requires my shortcut Icebox in order to work:
+
 https://routinehub.co/shortcut/19577/
 
 # What is LightSpam?
